@@ -96,7 +96,7 @@ video-container {
             overflow: hidden;
             max-width: 800px; 
             margin: 0 auto; 
-            vertical-align: bottom;
+            align-items: center;
         }
 
 
